@@ -1,0 +1,13 @@
+{
+  "name": "thevoicemakerbot",
+  "version": "1.0.0",
+  "description": "A Telegram bot that converts text to audio using free TTS.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "telegraf": "^4.16.0"
+  }
+}
